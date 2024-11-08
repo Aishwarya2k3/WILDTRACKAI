@@ -32,12 +32,6 @@ The ideal solution for WildTrackAI would effectively use computer vision and dee
    - **Dashboard**: Develop an intuitive dashboard for conservationists to monitor wildlife activity, visualize data insights, and track animal movement over time.
    - **Reports**: Generate reports summarizing key findings, such as species diversity, frequency of sightings, and animal migration patterns.
 
-### Technologies Involved
-- **Machine Learning Frameworks**: TensorFlow, PyTorch for model training.
-- **Computer Vision Libraries**: OpenCV, YOLO for object detection.
-- **Cloud Platforms**: AWS, Google Cloud for storage and scalable deployment.
-- **Database Management**: For storing image metadata and processed results.
-- **Visualization Tools**: Plotly, Dash for creating user-friendly dashboards.
 
 
 
